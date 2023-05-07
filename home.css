@@ -4,6 +4,7 @@ body {
      height: 100vh; } 
 nav { 
         display: flex;
+        whidth :100%;
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
